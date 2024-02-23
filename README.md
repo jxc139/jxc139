@@ -4,7 +4,7 @@ Snapshot of my recent work
 
 | Full Stats |Top Languages |
 |:--:|:--:|
-|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jxc139&theme=transparent&show_icons=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jxc139&hide=html,css&langs_count=5&layout=compact)](https://github.com/jxc139/github-readme-stats)|
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jxc139&theme=transparent&show_icons=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jxc139&hide=html,css&langs_count=5&layout=compact)](https://github.com/jxc139k/github-readme-stats)|
 
 <!-- Ref https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
