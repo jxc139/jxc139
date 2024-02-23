@@ -2,9 +2,9 @@
 
 Snapshot of my recent work
 
-| Full Stats |Top Languages |
+| Full Stats |Contributions|
 |:--:|:--:|
-|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jxc139&theme=transparent&show_icons=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=jxc139&hide=html,css&langs_count=5&layout=compact)](https://github.com/jxc139k/github-readme-stats)|
+|![jxc139's Stats](https://github-readme-stats.vercel.app/api?username=jxc139&theme=monokai&show_icons=true&hide_border=false&count_private=true)|![jxc139's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jxc139&theme=monokai&hide_border=false)|
 
 <!-- Ref https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
